@@ -34,6 +34,7 @@ let people = getUnique(rooms,'capacity');
 people=people.map((item,index)=>{
     return<option key={index} value={item}>{item}</option>
 })
+//     filtering...............
     return (
         <section className='filter-container'>
             <Title title='Search rooms'/>
