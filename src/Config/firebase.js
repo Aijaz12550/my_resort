@@ -1,8 +1,5 @@
 import * as firebase from 'firebase'
 import { promised } from 'q';
-// import { promised } from 'q';
-// import { resolve } from 'path';
-
 // import * as firebase from 'firebase'
 
 const config ={
